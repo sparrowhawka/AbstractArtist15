@@ -54,8 +54,7 @@ hr {
 	font-size: 11px;
 	color: #EB0000;
 }
-.col-md02 {
-}
+
 #breakingimage {
 	margin-top: 63px;
 }
@@ -82,6 +81,18 @@ h2 {
 	margin-bottom: 22px;
 	margin-top: 21px;
 }
+#galleryMain {
+	
+}
+#litMain {
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin-bottom: 22px;
+	margin-top: 21px;
+}
 .maxW1200{
 	max-width: 1200px;
 	padding-left: 0px;
@@ -91,3 +102,53 @@ h2 {
 .width90p{
 	width: 90%;
 }
+/*carousel settings*/
+#carousel1 .carousel-inner .carousel-caption {
+	bottom: -124px;
+}
+#carousel2 .carousel-inner .carousel-caption {
+	bottom: -124px;
+}
+#carousel1 .carousel-inner .item .center-block {
+	max-height: 550px;
+}
+#carousel2 .carousel-inner .item .center-block {
+	max-height: 300px;
+}
+.carousel-indicators  {
+	bottom: 65px;
+}
+#carousel1 .carousel-inner {
+	padding-bottom: 100px;
+}
+#carousel2 .carousel-inner {
+	padding-bottom: 100px;
+}
+.left.carousel-control  {
+	padding-bottom: 0px;
+	bottom: 100px;
+}
+.right.carousel-control  {
+	padding-bottom: 0px;
+	bottom: 100px;
+}
+#accordion_arc_media .panel.panel-default {
+	border-radius: 0px;
+	border: medium none #001530;
+}
+#accordion_arc_media .panel.panel-default .panel-heading {
+	background-color: #002960;
+	color: #A4DCFF;
+	border-top: 3px solid #001361;
+	border-left: 3px solid #001361;
+	border-right: 3px solid #001361;
+	border-radius: 0px;
+}
+#accordion_arc_media .panel.panel-default .panel-body {
+	background-color: #00245C;
+	border-right: medium solid #001361;
+	border-left: medium solid #001361;
+	border-bottom: medium solid #001361;
+	border-top: medium solid #001361;
+}
+
