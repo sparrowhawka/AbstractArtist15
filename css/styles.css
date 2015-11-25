@@ -102,6 +102,12 @@ h2 {
 .width90p{
 	width: 90%;
 }
+.width80p{
+	width: 80%;
+}
+.width70p{
+	width: 70%;
+}
 /*carousel settings*/
 #carousel1 .carousel-inner .carousel-caption {
 	bottom: -124px;
@@ -151,4 +157,7 @@ h2 {
 	border-bottom: medium solid #001361;
 	border-top: medium solid #001361;
 }
-
+.row3 {
+	max-width: 900px;
+	width: 80%;
+}
