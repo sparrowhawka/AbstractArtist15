@@ -238,7 +238,7 @@ hr {
 	max-width: 87%;
 	left: 0px;
 	right: 0px;
-	margin-left: 9%;
+	margin-left: 10.5%;
 }
 
 .DreamerOFB {
@@ -262,4 +262,18 @@ hr {
 }
 .summit {
 	margin-left: 6px;
+}
+.blueCF {
+	width: auto;
+	max-width: 99%;
+	margin-left: 1%;
+}
+.Winter_R {
+	width: auto;
+	max-width: 103%;
+}
+.LLBower {
+	width: auto;
+	max-width: 98%;
+	margin-left: 1%;
 }
