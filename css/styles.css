@@ -12,6 +12,19 @@
 	padding-left: 0px;
 	left: auto;
 }
+.img-fill-80 {
+	width: 80%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	left: auto;
+	right:auto;
+}
 .img-caption {
 	color: #3B71FF;
 	font-size: 9pt;
@@ -41,6 +54,13 @@ hr {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	font-size: 25pt;
 }
+.main_quote_sm {
+	color: #A4DCFF;
+	font-style: italic;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 22pt;
+}
+
 /* Navbar Settings */
 #defaultNavbar1 .navbar-brand.active {
 	background-color: #001430;
@@ -212,4 +232,34 @@ hr {
 #carousel1 .carousel-inner .carousel-caption {
 	bottom: -124px;
 }
+}
+/* Painting ID's (Custom) */
+.GladJourney {
+	max-width: 87%;
+	left: 0px;
+	right: 0px;
+	margin-left: 9%;
+}
+
+.DreamerOFB {
+	max-width: 108%;
+	width: auto;
+}
+.feb {
+	max-width: 98%;
+	margin-left: 1%;
+}
+.bow {
+	width: auto;
+	max-width: 103%;
+}
+.crossandsky {
+	width: auto;
+	max-width: 109%;
+}
+.lux {
+	margin-left: 6%;
+}
+.summit {
+	margin-left: 6px;
 }
