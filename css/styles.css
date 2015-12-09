@@ -280,3 +280,40 @@ hr {
 .intuition {
 	margin-top: 22px;
 }
+.hrlit {
+	border-color: #0047A5;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+.hrlit_div {
+	border-color: #004CB3;
+	margin-top: 0px;
+	margin-bottom: 6px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: 0px;
+	bottom: 0px;
+	border-style: dashed;
+}
+#kellymargin {
+	margin-top: 87px;
+}
+#bowMargin {
+	margin-top: 22px;
+}
+#KellyMargin2 {
+	margin-top: 56px;
+}
+#mazemargin {
+	margin-top: 22px;
+}
+#CertaintyMargin {
+	margin-top: 22px;
+}
+#estuaryMargin {
+	margin-top: 22px;
+}
