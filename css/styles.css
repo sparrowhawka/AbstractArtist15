@@ -317,3 +317,16 @@ hr {
 #estuaryMargin {
 	margin-top: 22px;
 }
+.shalet {
+	width: 112%;
+	max-width: 112%;
+	margin-left: 0px;
+}
+.house {
+	width: 93%;
+	max-width: 93%;
+	margin-left: 11%;
+}
+#litRow {
+	margin-top: 65px;
+}
