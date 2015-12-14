@@ -43,6 +43,25 @@ h2 {
 hr {
 	border-color: #001025;
 }
+.hrlit {
+	border-color: #0047A5;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+.hrlit_div {
+	border-color: #004CB3;
+	margin-top: 0px;
+	margin-bottom: 6px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: 0px;
+	bottom: 0px;
+	border-style: dashed;
+}
 .footer {
 	margin-top: 93px;
 	font-size: 11px;
@@ -240,7 +259,6 @@ hr {
 	right: 0px;
 	margin-left: 10.5%;
 }
-
 .DreamerOFB {
 	max-width: 108%;
 	width: auto;
@@ -280,25 +298,17 @@ hr {
 .intuition {
 	margin-top: 22px;
 }
-.hrlit {
-	border-color: #0047A5;
-	margin-top: 25px;
-	margin-bottom: 25px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	top: 0px;
-	bottom: 0px;
+.shalet {
+	width: 112%;
+	max-width: 112%;
+	margin-left: 0px;
 }
-.hrlit_div {
-	border-color: #004CB3;
-	margin-top: 0px;
-	margin-bottom: 6px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	top: 0px;
-	bottom: 0px;
-	border-style: dashed;
+.house {
+	width: 93%;
+	max-width: 93%;
+	margin-left: 11%;
 }
+
 #kellymargin {
 	margin-top: 87px;
 }
@@ -317,16 +327,7 @@ hr {
 #estuaryMargin {
 	margin-top: 22px;
 }
-.shalet {
-	width: 112%;
-	max-width: 112%;
-	margin-left: 0px;
-}
-.house {
-	width: 93%;
-	max-width: 93%;
-	margin-left: 11%;
-}
+
 #litRow {
 	margin-top: 65px;
 }
